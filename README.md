@@ -61,6 +61,8 @@
 </br></br>
 
 #### Final Result:
+![image](https://github.com/rid17pawar/Semantic-Search-Model-Experiments/assets/47048717/3d3094a6-0234-45ee-9ef1-b86ad68dc37e)
+
 ![image](https://github.com/rid17pawar/Semantic-Search-Model-Experiments/assets/47048717/2d00cdf3-a0d5-4cd7-8945-4df601138813)
 </br>
 **Overall Best Model: Finetuned SBERT**
