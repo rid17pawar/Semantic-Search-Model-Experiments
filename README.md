@@ -1,4 +1,5 @@
 # Semantic-Search-Model-Experiments
+  #### Research Paper: [click here](https://drive.google.com/file/d/16q8fpSA4Y7SZH8BjyjfkPidSympSsEnS/view?usp=sharing)
 
 ## Dataset Used For Semantic Search/ Information Retrieval: 
 [CISI Dataset - Kaggle](https://www.kaggle.com/datasets/dmaso01dsta/cisi-a-dataset-for-information-retrieval)
